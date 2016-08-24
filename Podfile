@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+target 'PersonalContacts02'
+pod 'AFNetworking', '~> 3.1.0'
+pod 'MBProgressHUD', '~> 1.0.0'
+pod 'SVProgressHUD', '~> 2.0.3'
